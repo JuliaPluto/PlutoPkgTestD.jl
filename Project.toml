@@ -1,0 +1,7 @@
+name = "PlutoPkgTestD"
+uuid = "7a5088c3-10ea-4f7a-9b2d-10bc1f9f26b0"
+authors = ["Fons van der Plas <fons@plutojl.org>"]
+version = "0.1.0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
